@@ -5,5 +5,4 @@ Accurately assessing the risk of loan applicants allows loan providers to better
 ## Context
 ```payment.ipynb``` is the working file to clean and transform the payment data. Later on, this dataset is used in the ```loan.ipynb```.
 
-
 Note: Raw data won't be shared due to confidentiality.
